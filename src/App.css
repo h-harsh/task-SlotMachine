@@ -9,7 +9,7 @@
 }
 .App{
   background-color: var(--bgColor);
-  height: 80vh;
+  height: 500px;
   width: 300px;
   margin: auto;
   border-radius: 30px;
